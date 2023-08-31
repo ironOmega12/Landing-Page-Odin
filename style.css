@@ -85,7 +85,8 @@ body{
     filter: brightness(90%) sepia(1) hue-rotate(210deg) saturate(120%);
     border-radius: 20px;
     animation: fadeIn 2s;
-
+    width: 100%;
+    height: auto;
 }
 
 .hero button{
